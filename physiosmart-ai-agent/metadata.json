@@ -1,0 +1,8 @@
+{
+  "name": "PhysioSmart AI Agent",
+  "description": "A real-time AI physiotherapy assistant that uses computer vision to monitor exercise form, provides live voice coaching, and tracks recovery progress.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
